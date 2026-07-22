@@ -1,0 +1,37 @@
+# Risk Assessment – Logging Disabled
+
+## Risk Rating
+
+**High**
+
+---
+
+## Likelihood
+
+Medium
+
+Logging is sometimes disabled unintentionally or due to cost-saving decisions, reducing security visibility.
+
+---
+
+## Impact
+
+Critical
+
+Without logs, organizations may be unable to detect, investigate, or accurately determine the scope of a security incident.
+
+---
+
+## Overall Risk
+
+High
+
+Comprehensive logging is essential for effective detection, investigation, and compliance.
+
+---
+
+## Recommended Priority
+
+High
+
+Audit logging should be enabled across all cloud environments and regularly verified.
